@@ -1,0 +1,40 @@
+  @font-face {
+      font-family: garamond;
+      src: url(/font/EBGaramond-Italic-VariableFont_wght.ttf);
+  }
+
+
+
+  .html {
+      background-image: url(/img/macOS-Monterey-wallpaper-Light-2048x2048.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 100vh;
+  }
+
+  article {
+    background-color: rgba(0, 0, 0, 0.212);
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    width: 95%;
+    margin: auto;
+    margin-top: 34px;
+    display: flex;
+    justify-content: space-between;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+    gap: 10px;
+}
+
+article p{
+    font-size: 24px;
+    margin-left: 25px;
+}
+article img{
+    margin-right: 25px;
+    border: 3.5px solid black;
+    border-radius: 25px;
+}
