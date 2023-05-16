@@ -29,6 +29,32 @@
     gap: 10px;
 }
 
+ .img-carousel{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    width: 95%;
+    margin: auto;
+    margin-top: 34px;
+    display: flex;
+ }
+.carousel-img{
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    width: 95%;
+    margin: auto;
+    margin-top: 34px;
+    display: flex;
+   
+    border-radius: 25px;
+   
+    justify-content: space-between;
+    
+}
+
 article p{
     font-size: 24px;
     margin-left: 25px;
