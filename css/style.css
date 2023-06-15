@@ -28,6 +28,17 @@
     padding-bottom: 25px;
     gap: 10px;
 }
+.media{
+    background-color: rgba(0, 0, 0, 0.212);
+    margin: auto;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    width: 95%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
 
  .img-carousel{
     padding-top: 25px;
