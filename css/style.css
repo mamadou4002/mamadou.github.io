@@ -71,15 +71,21 @@ article img{
     border: 3.5px solid black;
     border-radius: 25px;
 }
-.info{
+.info {
 
     padding-top: 25px;
     padding-bottom: 25px;
     width: 95%;
     margin: auto;
-    background-color: rgba(0, 0, 0, 0.212);
     
 }
+
+.info .card {
+    background-color: rgba(0, 0, 0, 0.212) !important;
+    color: white;
+
+}
+
 .card-img img{
     max-width: 350px;
 }
